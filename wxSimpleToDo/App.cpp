@@ -12,6 +12,7 @@ public:
 
 	MainFrame(const wxString& title) : wxFrame(nullptr, wxID_ANY, title)
 	{
+		SetIcon(wxICON(aaaaaaaaaaicon));
 		wxFont font(this->GetFont());
 		font.SetPointSize(12);
 		this->SetFont(font);
