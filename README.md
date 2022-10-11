@@ -4,7 +4,7 @@ My First attempt at wxWidgets. Really seems like a nice library to work with!
 
 The App is simple. You can type in the thing you want to do and click add to add it to the list and then use Edit, Remove and Remove All buttons to those tasks. The app looks for a notes.txt file in the user's documents folder and creates if it's not available. All to-do items will be saved in this file when you exit the app. And all items will be retrieved from it at launch.
 
-![Simple To-Do in Action](https://i.imgur.com/6UNNQ5m.png)
+![Simple To-Do in Action](https://i.imgur.com/OWwtZ8b.png)
 
 
 ## Compiling
